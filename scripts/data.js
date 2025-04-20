@@ -5,7 +5,7 @@ const headers = [
         "year": 2024
     },
     {
-        "url": "./images/luzern_2024_2.jpg",
+        "url": "images/luzern_2024_2.jpg",
         "location": "Lausanne - Luzern, Switzerland",
         "year": 2024
     },
@@ -28,7 +28,7 @@ const headers = [
 
 const photos = [
     {
-        "url": "./images/ad_2019_0.jpg",
+        "url": "images/ad_2019_0.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -36,7 +36,7 @@ const photos = [
         "score": 4,
     },
     {
-        "url": "./images/ad_2019_1.jpg",
+        "url": "images/ad_2019_1.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -44,7 +44,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/ad_2019_2.jpg",
+        "url": "images/ad_2019_2.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -52,7 +52,7 @@ const photos = [
         "score": 7,
     },
     {
-        "url": "./images/ad_2020_0.jpg",
+        "url": "images/ad_2020_0.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2020,
@@ -60,7 +60,7 @@ const photos = [
         "score": 10,
     },
     {
-        "url": "./images/ad_2022_0.jpg",
+        "url": "images/ad_2022_0.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2022,
@@ -68,7 +68,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/ad_2023_0.jpg",
+        "url": "images/ad_2023_0.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2023,
@@ -76,7 +76,7 @@ const photos = [
         "score": 4
     },
     {
-        "url": "./images/barcelona_2025_0.jpg",
+        "url": "images/barcelona_2025_0.JPG",
         "city": "Barcelona",
         "country": "Spain",
         "year": 2025,
@@ -84,7 +84,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/barcelona_2025_1.jpg",
+        "url": "images/barcelona_2025_1.JPG",
         "city": "Barcelona",
         "country": "Spain",
         "year": 2025,
@@ -92,7 +92,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/barcelona_2025_2.jpg",
+        "url": "images/barcelona_2025_2.JPG",
         "city": "Barcelona",
         "country": "Spain",
         "year": 2025,
@@ -100,7 +100,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/bruges_2024_0.jpg",
+        "url": "images/bruges_2024_0.jpg",
         "city": "Bruges",
         "country": "Belgium",
         "year": 2024,
@@ -108,7 +108,7 @@ const photos = [
         "score": 10
     },
     {
-        "url": "./images/brussels_2024_0.jpg",
+        "url": "images/brussels_2024_0.JPG",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -116,7 +116,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/brussels_2024_1.jpg",
+        "url": "images/brussels_2024_1.jpg",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -124,7 +124,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/brussels_2024_2.jpg",
+        "url": "images/brussels_2024_2.JPG",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -132,7 +132,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/brussels_2024_3.JPEG",
+        "url": "images/brussels_2024_3.JPEG",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -140,7 +140,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/brussels_2024_4.jpg",
+        "url": "images/brussels_2024_4.jpg",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -148,7 +148,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/brussels_2024_5.jpg",
+        "url": "images/brussels_2024_5.jpg",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -156,7 +156,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/brussels_2024_6.jpg",
+        "url": "images/brussels_2024_6.jpg",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -164,7 +164,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/brussels_2024_7.jpg",
+        "url": "images/brussels_2024_7.jpg",
         "city": "Brussels",
         "country": "Belgium",
         "year": 2024,
@@ -172,7 +172,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/dn_2024_0.JPG",
+        "url": "images/dn_2024_0.JPG",
         "city": "Đà Nẵng",
         "country": "Vietnam",
         "year": 2024,
@@ -180,7 +180,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/dn_2024_1.JPG",
+        "url": "images/dn_2024_1.JPG",
         "city": "Đà Nẵng",
         "country": "Vietnam",
         "year": 2024,
@@ -188,7 +188,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/dubai_2019_0.jpg",
+        "url": "images/dubai_2019_0.JPG",
         "city": "Dubai",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -196,7 +196,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/dubai_2019_1.jpg",
+        "url": "images/dubai_2019_1.JPG",
         "city": "Dubai",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -204,7 +204,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/dubai_2019_2.jpg",
+        "url": "images/dubai_2019_2.JPG",
         "city": "Dubai",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -212,7 +212,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/dubai_2022_0.jpg",
+        "url": "images/dubai_2022_0.JPG",
         "city": "Dubai",
         "country": "United Arab Emirates",
         "year": 2022,
@@ -220,7 +220,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/ghent_2024_0.jpg",
+        "url": "images/ghent_2024_0.jpg",
         "city": "Ghent",
         "country": "Belgium",
         "year": 2024,
@@ -228,7 +228,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/hue_2019_0.JPG",
+        "url": "images/hue_2019_0.JPG",
         "city": "Huế",
         "country": "Vietnam",
         "year": 2019,
@@ -236,7 +236,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/hue_2024_0.JPG",
+        "url": "images/hue_2024_0.JPG",
         "city": "Huế",
         "country": "Vietnam",
         "year": 2024,
@@ -244,7 +244,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/id_2022.jpg",
+        "url": "images/id_2022.jpg",
         "city": "Milton Keynes",
         "country": "United Kingdom",
         "year": 2022,
@@ -252,7 +252,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/id_2023.JPG",
+        "url": "images/id_2023.JPG",
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "year": 2023,
@@ -260,7 +260,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/london_2022_0.jpg",
+        "url": "images/london_2022_0.JPG",
         "city": "London",
         "country": "United Kingdom",
         "year": 2022,
@@ -268,7 +268,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/london_2022_1.JPG",
+        "url": "images/london_2022_1.JPG",
         "city": "London",
         "country": "United Kingdom",
         "year": 2022,
@@ -276,7 +276,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/london_2022_2.JPG",
+        "url": "images/london_2022_2.JPG",
         "city": "London",
         "country": "United Kingdom",
         "year": 2022,
@@ -284,7 +284,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/london_2022_3.JPG",
+        "url": "images/london_2022_3.JPG",
         "city": "London",
         "country": "United Kingdom",
         "year": 2022,
@@ -292,7 +292,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/luzern_2024_0.jpg",
+        "url": "images/luzern_2024_0.jpg",
         "city": "Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -300,7 +300,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/luzern_2024_1.jpg",
+        "url": "images/luzern_2024_1.jpg",
         "city": "Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -308,7 +308,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/luzern_2024_2.jpg",
+        "url": "images/luzern_2024_2.jpg",
         "city": "Lausanne - Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -316,7 +316,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/luzern_2024_3.jpg",
+        "url": "images/luzern_2024_3.jpg",
         "city": "Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -324,7 +324,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/luzern_2024_4.jpg",
+        "url": "images/luzern_2024_4.jpg",
         "city": "Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -332,7 +332,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/luzern_2024_5.jpg",
+        "url": "images/luzern_2024_5.jpg",
         "city": "Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -340,7 +340,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/luzern_2024_6.jpg",
+        "url": "images/luzern_2024_6.jpg",
         "city": "Luzern",
         "country": "Switzerland",
         "year": 2024,
@@ -348,7 +348,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/marseille_2025_0.jpg",
+        "url": "images/marseille_2025_0.JPG",
         "city": "Marseille",
         "country": "France",
         "year": 2025,
@@ -356,7 +356,7 @@ const photos = [
         "score": 10
     },
     {
-        "url": "./images/marseille_2025_1.JPG",
+        "url": "images/marseille_2025_1.JPG",
         "city": "Marseille",
         "country": "France",
         "year": 2025,
@@ -364,7 +364,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/marseille_2025_2.JPG",
+        "url": "images/marseille_2025_2.JPG",
         "city": "Marseille",
         "country": "France",
         "year": 2025,
@@ -372,7 +372,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/nyc_2021_0.JPG",
+        "url": "images/nyc_2021_0.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -380,7 +380,7 @@ const photos = [
         "score": 10
     },
     {
-        "url": "./images/nyc_2021_1.JPG",
+        "url": "images/nyc_2021_1.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -388,7 +388,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/nyc_2021_2.JPG",
+        "url": "images/nyc_2021_2.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -396,7 +396,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/nyc_2021_3.JPG",
+        "url": "images/nyc_2021_3.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -404,7 +404,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/nyc_2021_4.JPG",
+        "url": "images/nyc_2021_4.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -412,7 +412,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/nyc_2021_5.JPG",
+        "url": "images/nyc_2021_5.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -420,7 +420,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/nyc_2021_6.JPG",
+        "url": "images/nyc_2021_6.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -428,7 +428,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/nyc_2021_7.JPG",
+        "url": "images/nyc_2021_7.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -436,7 +436,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/nyc_2021_8.JPG",
+        "url": "images/nyc_2021_8.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2021,
@@ -444,7 +444,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/nyc_2022_0.JPG",
+        "url": "images/nyc_2022_0.JPG",
         "city": "New York City",
         "country": "United States",
         "year": 2022,
@@ -452,7 +452,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/paris_2024_0.JPG",
+        "url": "images/paris_2024_0.JPG",
         "city": "Paris",
         "country": "France",
         "year": 2024,
@@ -460,7 +460,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "./images/paris_2024_1.JPG",
+        "url": "images/paris_2024_1.JPG",
         "city": "Paris",
         "country": "France",
         "year": 2024,
@@ -468,7 +468,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/paris_2024_2.JPG",
+        "url": "images/paris_2024_2.JPG",
         "city": "Paris",
         "country": "France",
         "year": 2024,
@@ -476,7 +476,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/paris_2024_3.JPG",
+        "url": "images/paris_2024_3.JPG",
         "city": "Paris",
         "country": "France",
         "year": 2024,
@@ -484,7 +484,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/paris_2024_4.JPG",
+        "url": "images/paris_2024_4.JPG",
         "city": "Paris",
         "country": "France",
         "year": 2024,
@@ -492,7 +492,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/qt_2019_0.JPG",
+        "url": "images/qt_2019_0.JPG",
         "city": "Quảng Trị",
         "country": "Vietnam",
         "year": 2019,
@@ -500,7 +500,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/qt_2019_1.JPG",
+        "url": "images/qt_2019_1.JPG",
         "city": "Quảng Trị",
         "country": "Vietnam",
         "year": 2019,
@@ -508,7 +508,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/qt_2019_2.JPG",
+        "url": "images/qt_2019_2.JPG",
         "city": "Quảng Trị",
         "country": "Vietnam",
         "year": 2019,
@@ -516,7 +516,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/rak_2019_0.JPG",
+        "url": "images/rak_2019_0.JPG",
         "city": "Ras Al-Khaimah",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -524,7 +524,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/rak_2019_1.JPG",
+        "url": "images/rak_2019_1.JPG",
         "city": "Ras Al-Khaimah",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -532,7 +532,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/rak_2019_2.JPG",
+        "url": "images/rak_2019_2.JPG",
         "city": "Ras Al-Khaimah",
         "country": "United Arab Emirates",
         "year": 2019,
@@ -540,7 +540,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/thailand_2019_0.JPG",
+        "url": "images/thailand_2019_0.JPG",
         "city": "Bangkok",
         "country": "Thailand",
         "year": 2019,
@@ -548,7 +548,7 @@ const photos = [
         "score": 5
     },
     {
-        "url": "./images/toulouse_2025_0.JPG",
+        "url": "images/toulouse_2025_0.JPG",
         "city": "Toulouse",
         "country": "France",
         "year": 2025,
@@ -556,7 +556,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/toulouse_2025_1.JPG",
+        "url": "images/toulouse_2025_1.JPG",
         "city": "Toulouse",
         "country": "France",
         "year": 2025,
@@ -564,7 +564,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/toulouse_2025_2.JPG",
+        "url": "images/toulouse_2025_2.JPG",
         "city": "Toulouse",
         "country": "France",
         "year": 2025,
@@ -572,7 +572,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/zurich_2024_0.jpg",
+        "url": "images/zurich_2024_0.jpg",
         "city": "Zurich",
         "country": "Switzerland",
         "year": 2024,
@@ -580,7 +580,7 @@ const photos = [
         "score": 9
     },
     {
-        "url": "./images/zurich_2024_1.jpg",
+        "url": "images/zurich_2024_1.jpg",
         "city": "Zurich",
         "country": "Switzerland",
         "year": 2024,
@@ -588,7 +588,7 @@ const photos = [
         "score": 7
     },
     {
-        "url": "./images/zurich_2024_2.jpg",
+        "url": "images/zurich_2024_2.jpg",
         "city": "Zurich",
         "country": "Switzerland",
         "year": 2024,
@@ -596,7 +596,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "./images/zurich_2024_3.jpg",
+        "url": "images/zurich_2024_3.jpg",
         "city": "Zurich",
         "country": "Switzerland",
         "year": 2024,

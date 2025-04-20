@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Views From The Road | Ngoc Hoang</title>
+    <link rel="icon" type="image/x-icon" href="assets/logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts/jquery-3.6.0.min.js"></script>
+    <script src="scripts/data.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+
+<body>
+    <section id="header">
+        <div id="header-bg"></div>
+        <div id="header-content">
+            <div id="title">
+                <div class="wrapper">
+                    <h1>Views From The Road</h1>
+                    <p>A collection of snapshots captured around the world</p>
+                    <div class="button-wrapper">
+                        <a class="button" href="#gallery">
+                            <p>See all photos</p>
+                        </a>
+                        <a class="button" href="#about">
+                            <p>About me</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="headnote">
+                <p>By Ngoc Hoang</p>
+                <p></p>
+            </div>
+            <div class="footnote">
+                <p id="footnote-location">Ras Al-Khaimah, United Arab Emirates</p>
+                <p id="footnote-year">2019</p>
+            </div>
+            <div class="sidebar">
+                <div class="dot dot-active">&#x2022</div>
+                <div class="dot">&#x2022</div>
+                <div class="dot">&#x2022</div>
+                <div class="dot">&#x2022</div>
+                <div class="dot">&#x2022</div>
+            </div>
+        </div>
+    </section>
+    <section id="gallery">
+        <div class="wrapper">
+            <div class="sub-wrapper" id="gallery-header">
+                <h1>Gallery</h1>
+                <p>Each photo is a stop on my journeys around the world, capturing moments from the golden sand of the Arabian Desert to the blue water of the Mediterranean Sea, from my grandmother's garden in rural Vietnam to the bustling avenues of New York, and beyond.</p>
+            </div>
+        </div>
+        <div class="wrapper">
+            <div class="sub-wrapper" id="gallery-filter">
+                <div class="sub-sub-wrapper" id="filter-year">
+                    <p>YEAR</p>
+                    <div class="badge badge-year badge-active">All</div>
+                </div>
+                <div class="sub-sub-wrapper" id="filter-country">
+                    <p>COUNTRY</p>
+                    <div class="badge badge-country badge-active">All</div>
+                </div>
+            </div>
+        </div>
+        <div class="wrapper" id="photo-grid">
+            <div class="sub-wrapper" id="photo-grid-wrapper">
+            </div>
+        </div>
+    </section>
+    <div class="modal" id="img-modal">
+        <span class="close" id="close-btn">&times;</span>
+        <img class="modal-content">
+        <div id="modal-caption"></div>
+    </div>
+    <section id="about">
+        <div id="about-vid-wrapper">
+            <!-- <video muted loop autoplay id="about-vid">
+                <source src="videos/bg_vid.MOV">
+            </video> -->
+        </div>
+        <div class="wrapper" id="about-wrapper">
+            <div>
+                <h1>Just A Wanderer</h1>
+                <p>My name is Ngoc, and I like wandering and taking photos, mostly for my own amusement. To me, life is tremendous and photography is my way of attempting to preserve a miniscule portion of that enormity.</p>
+                <p>I'm on other channels: 
+                    [ <a class="about-link" href="https://www.instagram.com/ngoc.n.hoang/">instagram</a> ] 
+                    [ <a class="about-link" href="https://unsplash.com/@nhungoc1508">unsplash</a> ] 
+                    [ <a class="about-link" href="https://www.linkedin.com/in/ngocnhoang/">linkedin</a> ] 
+                    [ <a class="about-link" href="https://nhungoc1508.github.io/">professional profile</a> ]
+                </p>
+            </div>
+            <div class="end-footnote">
+                <a href="#header">&#8593 Back to top</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

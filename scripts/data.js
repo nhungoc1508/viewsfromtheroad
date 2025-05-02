@@ -96,7 +96,31 @@ const photos = [
         "city": "Barcelona",
         "country": "Spain",
         "year": 2025,
-        "caption": "A glimpse of the Cathedral of Barcelona (not to be confused with the Sagrada Família).",
+        "caption": "A glimpse of the Cathedral of Barcelona from Carrer del Doctor Joaquim Pou.",
+        "score": 8
+    },
+    {
+        "url": "images/barcelona_2025_3.JPG",
+        "city": "Barcelona",
+        "country": "Spain",
+        "year": 2025,
+        "caption": "A glimpse of the Cathedral of Barcelona from Carrer del Paradís.",
+        "score": 8
+    },
+    {
+        "url": "images/barcelona_2025_4.JPG",
+        "city": "Barcelona",
+        "country": "Spain",
+        "year": 2025,
+        "caption": "An afternoon at the crowded Plaça Reial in the middle of Barri Gòtic (Gothic Quarter).",
+        "score": 8
+    },
+    {
+        "url": "images/barcelona_2025_5.JPG",
+        "city": "Barcelona",
+        "country": "Spain",
+        "year": 2025,
+        "caption": "A view of the buildings surrounding Plaça Reial.",
         "score": 8
     },
     {

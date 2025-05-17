@@ -284,6 +284,30 @@ const photos = [
         "score": 6
     },
     {
+        "url": "images/lisbon_2025_1.jpg",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "year": 2025,
+        "caption": "The iconic yellow tram of Lisbon passing by the Rua Augusta Arch, viewed from the Praça do Comércio.",
+        "score": 8
+    },
+    {
+        "url": "images/lisbon_2025_2.jpg",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "year": 2025,
+        "caption": "View from the Miradouro de Santa Luzia, next to the blooming bougainvillea in Jardim Júlio de Castilho.",
+        "score": 8
+    },
+    {
+        "url": "images/lisbon_2025_3.jpg",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "year": 2025,
+        "caption": "Blooming jacarandás at Largo do Correio-Mor viewed from a distance a little bit uphill.",
+        "score": 8
+    },
+    {
         "url": "images/london_2022_0.JPG",
         "city": "London",
         "country": "United Kingdom",
@@ -513,6 +537,14 @@ const photos = [
         "country": "France",
         "year": 2024,
         "caption": "The peak of the pyramid at the Louvre, captured while I was sidestepping the extremely long queue of visitors waiting to get inside the museum.",
+        "score": 8
+    },
+    {
+        "url": "images/porto_2025_1.JPG",
+        "city": "Porto",
+        "country": "Portugal",
+        "year": 2025,
+        "caption": "A tram crossing the Dom Luís I Bridge (Ponte de Dom Luís I) over the river Douro, viewed from Mosteiro da Serra do Pilar.",
         "score": 8
     },
     {

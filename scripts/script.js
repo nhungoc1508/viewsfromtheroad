@@ -24,12 +24,12 @@ function comparePhotos(b, a) {
         return a['country'].localeCompare(b['country']);
     }
     if (a['city'] != b['city']) {
-        return a['city'].localeCompare(b['city']);
+        return b['city'].localeCompare(a['city']);
     }
     if (a['year'] != b['year']) {
         return a['year'] - b['year'];
     }
-    return a['url'].localeCompare(b['url']);
+    return b['url'].localeCompare(a['url']);
 }
 
 function showPhotos(photos) {

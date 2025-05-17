@@ -540,7 +540,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "images/porto_2025_1.JPG",
+        "url": "images/porto_2025_1.jpg",
         "city": "Porto",
         "country": "Portugal",
         "year": 2025,

@@ -5,6 +5,11 @@ const headers = [
         "year": 2024
     },
     {
+        "url": "images/porto_2025_0.jpg",
+        "location": "Porto, Portugal",
+        "year": 2025
+    },
+    {
         "url": "images/luzern_2024_2.jpg",
         "location": "Lausanne - Luzern, Switzerland",
         "year": 2024
@@ -18,12 +23,7 @@ const headers = [
         "url": "images/nyc_2021_0.JPG",
         "location": "New York City, United States",
         "year": 2021
-    },
-    {
-        "url": "images/rak_2019_0.JPG",
-        "location": "Ras Al-Khaimah, United Arab Emirates",
-        "year": 2019
-    },
+    }
 ]
 
 const photos = [
@@ -284,7 +284,7 @@ const photos = [
         "score": 6
     },
     {
-        "url": "images/lisbon_2025_1.jpg",
+        "url": "images/lisbon_2025_0.jpg",
         "city": "Lisbon",
         "country": "Portugal",
         "year": 2025,
@@ -292,7 +292,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "images/lisbon_2025_2.jpg",
+        "url": "images/lisbon_2025_1.jpg",
         "city": "Lisbon",
         "country": "Portugal",
         "year": 2025,
@@ -300,7 +300,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "images/lisbon_2025_3.jpg",
+        "url": "images/lisbon_2025_2.jpg",
         "city": "Lisbon",
         "country": "Portugal",
         "year": 2025,
@@ -540,7 +540,7 @@ const photos = [
         "score": 8
     },
     {
-        "url": "images/porto_2025_1.jpg",
+        "url": "images/porto_2025_0.jpg",
         "city": "Porto",
         "country": "Portugal",
         "year": 2025,

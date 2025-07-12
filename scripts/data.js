@@ -30,7 +30,7 @@ const photos = [
     {
         "url": "images/ad_2019_0.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "Late afternoon sky over the Sheikh Zayed Grand Mosque.",
         "score": 4,
@@ -38,7 +38,7 @@ const photos = [
     {
         "url": "images/ad_2019_1.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "Downtown Abu Dhabi. Captured while waiting for the bus in the shade.",
         "score": 7
@@ -46,7 +46,7 @@ const photos = [
     {
         "url": "images/ad_2019_2.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "Downtown Abu Dhabi. Captured while waiting for the bus under the sun.",
         "score": 7,
@@ -54,7 +54,7 @@ const photos = [
     {
         "url": "images/ad_2020_0.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2020,
         "caption": "Sand dunes on Sweihan Desert, captured on a class field trip in my freshman year.",
         "score": 10,
@@ -62,7 +62,7 @@ const photos = [
     {
         "url": "images/ad_2022_0.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2022,
         "caption": "The walking trail of the Jubail Mangrove Park.",
         "score": 5
@@ -70,10 +70,26 @@ const photos = [
     {
         "url": "images/ad_2023_0.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2023,
         "caption": "Palm trees on the NYUAD campus.",
         "score": 4
+    },
+    {
+        "url": "images/amsterdam_2025_0.JPG",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "year": 2025,
+        "caption": "Buildings along the waterways of the Damrak, Amsterdam.",
+        "score": 8
+    },
+    {
+        "url": "images/amsterdam_2025_1.JPG",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "year": 2025,
+        "caption": "The florals, water, and boats along one of the many, many canals of Amsterdam.",
+        "score": 8
     },
     {
         "url": "images/barcelona_2025_0.JPG",
@@ -214,7 +230,7 @@ const photos = [
     {
         "url": "images/dubai_2019_0.JPG",
         "city": "Dubai",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "Burj Khalifa viewed through a window of Dubai Frame.",
         "score": 9
@@ -222,7 +238,7 @@ const photos = [
     {
         "url": "images/dubai_2019_1.JPG",
         "city": "Dubai",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "The blue rippling water under the dock captured as I was waiting to get on a ferry boat (abra) at Dubai Creek.",
         "score": 6
@@ -230,7 +246,7 @@ const photos = [
     {
         "url": "images/dubai_2019_2.JPG",
         "city": "Dubai",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "Sunset over Dubai captured from a ferry boat (abra) sailing along Dubai Creek.",
         "score": 6
@@ -238,7 +254,7 @@ const photos = [
     {
         "url": "images/dubai_2022_0.JPG",
         "city": "Dubai",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2022,
         "caption": "A peaceful afternoon by the side of Dubai Creek, near the Old Town.",
         "score": 9
@@ -270,7 +286,7 @@ const photos = [
     {
         "url": "images/id_2022.jpg",
         "city": "Milton Keynes",
-        "country": "United Kingdom",
+        "country": "UK",
         "year": 2022,
         "caption": "Closing of an Imagine Dragons concert in Milton Keynes, one of the best things I've experienced. Captured about an hour before I took the midnight train back to London, and a couple hours before I took the early morning flight to NYC.",
         "score": 6
@@ -278,9 +294,17 @@ const photos = [
     {
         "url": "images/id_2023.JPG",
         "city": "Abu Dhabi",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2023,
         "caption": "Closing of an Imagine Dragons concert in Abu Dhabi.",
+        "score": 6
+    },
+    {
+        "url": "images/id_2025.jpg",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "year": 2025,
+        "caption": "Closing of an Imagine Dragons concert in Amsterdam. This show marked 10-something years I've been a fan of the band, and it was really special that the show was in the namesake city of my most favorite song of all time (of anyone, not just of Imagine Dragons), Amsterdam.",
         "score": 6
     },
     {
@@ -310,7 +334,7 @@ const photos = [
     {
         "url": "images/london_2022_0.JPG",
         "city": "London",
-        "country": "United Kingdom",
+        "country": "UK",
         "year": 2022,
         "caption": "View from the vicinity of Trafalgar Square, with the St Martin-in-the-Fields Church in the background and the Edith Cavell Memorial in the foreground.",
         "score": 6
@@ -318,7 +342,7 @@ const photos = [
     {
         "url": "images/london_2022_1.JPG",
         "city": "London",
-        "country": "United Kingdom",
+        "country": "UK",
         "year": 2022,
         "caption": "View of a summer day on some random London street.",
         "score": 5
@@ -326,7 +350,7 @@ const photos = [
     {
         "url": "images/london_2022_2.JPG",
         "city": "London",
-        "country": "United Kingdom",
+        "country": "UK",
         "year": 2022,
         "caption": "A statue in the British Museum.",
         "score": 6
@@ -334,7 +358,7 @@ const photos = [
     {
         "url": "images/london_2022_3.JPG",
         "city": "London",
-        "country": "United Kingdom",
+        "country": "UK",
         "year": 2022,
         "caption": "A corner of the National Gallery.",
         "score": 7
@@ -422,7 +446,7 @@ const photos = [
     {
         "url": "images/nyc_2021_0.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "Traffic on Third Avenue captured on my way back from lectures.",
         "score": 10
@@ -430,7 +454,7 @@ const photos = [
     {
         "url": "images/nyc_2021_1.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "Dusk hours over some Manhattan buildings viewed from the 18th floor of my dorm.",
         "score": 6
@@ -438,7 +462,7 @@ const photos = [
     {
         "url": "images/nyc_2021_2.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "A corner of the Metropolitan Museum of Art.",
         "score": 6
@@ -446,7 +470,7 @@ const photos = [
     {
         "url": "images/nyc_2021_3.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "A corner of the Metropolitan Museum of Art.",
         "score": 8
@@ -454,7 +478,7 @@ const photos = [
     {
         "url": "images/nyc_2021_4.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "The forest of billboards in Times Square.",
         "score": 7
@@ -462,7 +486,7 @@ const photos = [
     {
         "url": "images/nyc_2021_5.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "Quick late afternoon snap on some random NYC street.",
         "score": 6
@@ -470,7 +494,7 @@ const photos = [
     {
         "url": "images/nyc_2021_6.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "A clear day in NYC viewed from Central Park.",
         "score": 5
@@ -478,7 +502,7 @@ const photos = [
     {
         "url": "images/nyc_2021_7.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "Leaves at the end of fall, captured on a cold day, during a break in between lectures, from a bench nested between NYU Stern and Bobst Library.",
         "score": 6
@@ -486,7 +510,7 @@ const photos = [
     {
         "url": "images/nyc_2021_8.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2021,
         "caption": "An early morning in Manhattan captured on my way to class.",
         "score": 5
@@ -494,7 +518,7 @@ const photos = [
     {
         "url": "images/nyc_2022_0.JPG",
         "city": "New York City",
-        "country": "United States",
+        "country": "US",
         "year": 2022,
         "caption": "Brooklyn Bridge captured towards the end of the summer, when I went on a walk from Manhattan to Brooklyn then back again.",
         "score": 8
@@ -574,7 +598,7 @@ const photos = [
     {
         "url": "images/rak_2019_0.JPG",
         "city": "Ras Al-Khaimah",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "View from a high part of Jebel Jais mountain.",
         "score": 8
@@ -582,7 +606,7 @@ const photos = [
     {
         "url": "images/rak_2019_1.JPG",
         "city": "Ras Al-Khaimah",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "More view from the Jebel Jais.",
         "score": 5
@@ -590,7 +614,7 @@ const photos = [
     {
         "url": "images/rak_2019_2.JPG",
         "city": "Ras Al-Khaimah",
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "year": 2019,
         "caption": "Foggy weather appearing as I descended the Jebel Jais.",
         "score": 5

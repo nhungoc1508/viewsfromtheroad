@@ -524,6 +524,30 @@ const photos = [
         "score": 8
     },
     {
+        "url": "images/padova_2025_0.JPG",
+        "city": "Padova",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "Prato della Valle, the second largest square in Italy, captured on a sunny but cold afternoon.",
+        "score": 8
+    },
+    {
+        "url": "images/padova_2025_1.JPG",
+        "city": "Padova",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "Palazzo del Bo, the historic seat of the University of Padova. There were students taking graduation photos in the courtyard when I was there.",
+        "score": 8
+    },
+    {
+        "url": "images/padova_2025_2.JPG",
+        "city": "Padova",
+        "country": "Italy",
+        "year": 2025,
+        "caption": 'The relief sculpture located in the New Courtyard of University of Padova. The inscription reads, "Hic vivunt, hic vigent, hic renovantur / in aevum tot bellorum animae" (Here live, here thrive, here the souls of so many wars find new life for all times.)',
+        "score": 8
+    },
+    {
         "url": "images/paris_2024_0.JPG",
         "city": "Paris",
         "country": "France",

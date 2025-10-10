@@ -265,7 +265,7 @@ const photos = [
         "country": "Belgium",
         "year": 2024,
         "caption": "Buildings on the Graslei quay alongside the Leie river, taken from the opposite Korenlei quay (or it might be the other way around; Ghent is one fascinatingly confusing city to me).",
-        "score": 9
+        "score": 10
     },
     {
         "url": "images/hue_2019_0.JPG",
@@ -321,7 +321,7 @@ const photos = [
         "country": "Portugal",
         "year": 2025,
         "caption": "View from the Miradouro de Santa Luzia, next to the blooming bougainvillea in Jardim Júlio de Castilho.",
-        "score": 8
+        "score": 9
     },
     {
         "url": "images/lisbon_2025_2.jpg",
@@ -673,6 +673,46 @@ const photos = [
         "country": "France",
         "year": 2025,
         "caption": "A quick snap of Toulouse captured while I was waiting for the bus.",
+        "score": 8
+    },
+    {
+        "url": "images/venice_2025_0.jpg",
+        "city": "Venice",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "View of the Basilica di San Marco from Piazza San Marco.",
+        "score": 9
+    },
+    {
+        "url": "images/venice_2025_1.jpg",
+        "city": "Venice",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "A building, whose name evades me at the moment, that nests beside Piazza San Marco.",
+        "score": 8
+    },
+    {
+        "url": "images/venice_2025_2.jpg",
+        "city": "Venice",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "The blue dome of the Basilica Santa Maria della Salute from behind a floating restaurant, viewed from a corner in front of the Giardini Reali.",
+        "score": 8
+    },
+    {
+        "url": "images/venice_2025_3.jpg",
+        "city": "Venice",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "Boats, canoes, and gondolas sailing under the Ponte dei Sospiri.",
+        "score": 8
+    },
+    {
+        "url": "images/venice_2025_4.jpg",
+        "city": "Venice",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "One of the many, many bridges dotting the endless canals of Venice.",
         "score": 8
     },
     {

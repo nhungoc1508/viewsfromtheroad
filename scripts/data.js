@@ -1,13 +1,13 @@
 const headers = [
     {
+        "url": "images/dolomites_2025_0.JPG",
+        "location": "Dolomites, Italy",
+        "year": 2025
+    },
+    {
         "url": "images/bruges_2024_0.jpg",
         "location": "Bruges, Belgium",
         "year": 2024
-    },
-    {
-        "url": "images/porto_2025_0.jpg",
-        "location": "Porto, Portugal",
-        "year": 2025
     },
     {
         "url": "images/luzern_2024_2.jpg",
@@ -226,6 +226,38 @@ const photos = [
         "year": 2024,
         "caption": "View of Cầu Rồng (Dragon Bridge). Captured shortly before I left Vietnam again to start my master's degree.",
         "score": 5
+    },
+    {
+        "url": "images/dolomites_2025_0.JPG",
+        "city": "Dolomites",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "View of the Alpe di Siusi/Seiser Alm plateau, captured from the trail on a golden day of the fall.",
+        "score": 9
+    },
+    {
+        "url": "images/dolomites_2025_1.JPG",
+        "city": "Dolomites",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "View of the Chiesa di Santa Maddalena/Die Kirche zur Heiligen Magdalena (Church of St. Magdalena) in the valley of Val di Funes/Villnößtal.",
+        "score": 8
+    },
+    {
+        "url": "images/dolomites_2025_2.JPG",
+        "city": "Dolomites",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "The breathtakingly stunning view of the Lago di Braies/Pragser Wildsee (Lake Braies) on a slightly gloomy day.",
+        "score": 9
+    },
+    {
+        "url": "images/dolomites_2025_3.JPG",
+        "city": "Dolomites",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "The incredibly clear water of the Lago di Braies/Pragser Wildsee (Lake Braies) viewed from under the dock.",
+        "score": 10
     },
     {
         "url": "images/dubai_2019_0.JPG",
